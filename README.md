@@ -47,8 +47,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anku-kumar-629b521ba"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Pandey-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:anku25475@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pandeyashutosh150799@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/anku-kumar-629b521ba"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anku%20Kumar-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:anku25475@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anku25475@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <!--
