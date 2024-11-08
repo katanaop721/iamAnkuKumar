@@ -1,7 +1,7 @@
 ### 👋 Hello World!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" height="400px" width="800px" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="400px" width="800px" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 - 📚 &nbsp;**Computer Science Graduate** | Navrachana University, Vadodara (2023) – 8.25 CGPA
 - 🚀 &nbsp;**Current Role**: Automation Test Engineer at Civica India
 - 🔥 &nbsp;**Passions**: Automation, Full Stack Development, and Innovative Solutions
-- 🤝 &nbsp;**Open to New Roles**: Intern and collaborative project opportunities
+- 🤝 &nbsp;**Open to Roles**: SDET positions and collaborative project opportunities
 
 ---
 
@@ -41,10 +41,19 @@
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-6CA5DD?style=for-the-badge&logo=soapui&logoColor=white)
+![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![TestNG](https://img.shields.io/badge/-TestNG-E34A33?style=for-the-badge&logo=testng)
+
+**CI/CD & Automation**  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 **Version Control & Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
